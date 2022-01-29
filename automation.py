@@ -21,7 +21,7 @@ def takeSnapshot():
     cv2.destroyAllWindows()
 
 def uploadFile(image_name):
-    accessToken = "ZXdtn3QwzS8AAAAAAAAAAexqvRHqHMjORLNKVl6aQpPL-u7alSn6fkkJyRomEXow"
+    accessToken = "********************************************************"
     file_from = image_name
     file_to = "/securitysystem/"+image_name
     dbx = dropbox.Dropbox(accessToken)
