@@ -1,0 +1,7 @@
+1) To sort the picture/video/texts/documents in a seperate folder. (Like I have a screenshot of a question related to maths,
+   so the programme will transfer all the material related to maths to a folder. Inside the folder, There will be many subfolder
+   which contain different maths topics like Algebra, Geometry etc.)
+
+    [Without any file name]
+
+2)
